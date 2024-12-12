@@ -88,7 +88,7 @@ const questions = [
     {  
         question: "ما هو الوسم الصحيح لتخطي سطر في HTML؟",  
         answers: ["<style>", "<title>", "<video>", "<br>"],  
-        correct: 2  
+        correct: 3 
     },  
 
  
